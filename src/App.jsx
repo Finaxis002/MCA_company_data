@@ -102,7 +102,7 @@ const App = () => {
               <th>Registered_Office_Address</th>
               <th>Listing-status</th>
               <th>StateCode</th>
-              <th>nic_code</th>
+              <th>nic-code</th>
               <th>Industrial-Classification</th>
             </tr>
           </thead>
